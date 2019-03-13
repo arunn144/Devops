@@ -1,0 +1,11 @@
+#!/bin/bash
+function1() {
+linux -V
+# /bin/ping
+}
+function1
+function2() {
+ping google.com
+tracet github.com
+}
+function2
